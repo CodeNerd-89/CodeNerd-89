@@ -4,7 +4,7 @@
 
 - 🏫 I am presently studying at **CUET, Department of CSE.**
 
-- 🌱 I’m currently learning **Data structure and algorithm**
+- 🌱 I’m currently learning **Data structure and algorithm.**
 
 - 📫 How to reach me **tahmidhossain1720@gmail.com**
 
