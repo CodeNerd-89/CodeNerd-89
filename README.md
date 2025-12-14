@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahmid Hossain</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codenerd-89&label=Profile%20views&color=0e75b6&style=flat" alt="codenerd-89" /> </p>
 
-- 🏫 I am presently studying at **CUET, Department of CSE.**
-
-- 🌱 I’m currently learning **Competitive programming ,Object-oriented programming**
-
+- 🏫 I am presently studying at **CUET, Department of CSE.** 
 - 📫 How to reach me **tahmidhossain1720@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
